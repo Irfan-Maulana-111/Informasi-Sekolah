@@ -9,7 +9,7 @@ body{
 
 .benner {
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(../Image/hal\ depan.png);
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(Image/hal\ depan.png);
     background-size: cover;
     background-position: center;
 }
